@@ -50,7 +50,7 @@ classDiagram
     class Course {
         #courseNumber : int
         #sectionNumber : int
-        #courseDepartment : int
+        #courseDepartment : string
         #courseName : string
         #instructorName : string
         #modules : list<string>
